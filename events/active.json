@@ -1,0 +1,36 @@
+{
+  "slug": "inspire-kerala-catering-manjeri",
+  "name": "Inspire Kerala Catering",
+  "shortName": "Inspire Kerala",
+  "descriptor": "Catering Services",
+  "address": "Kuthukal, Manjeri, Keralam 676123",
+  "area": "Manjeri",
+  "city": "Manjeri",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "676123",
+  "geo": {
+    "lat": 11.1208405,
+    "lng": 76.12259399999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=6147378834337237268",
+  "phone": "+91 98950 70602",
+  "whatsapp": "919895070602",
+  "rating": 4.6,
+  "reviewCount": 9,
+  "reviews": [
+    {
+      "name": "magician Deepu Kerala Magician Deepu Kerala",
+      "rating": 5,
+      "quote": "Supper service.... They are great"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://inspire-kerala-catering-manjeri.vercel.app"
+}
